@@ -2,7 +2,7 @@
 
 ## Overview
 
-Brief description of the project, including its goals and objectives. Mention the main problem you are solving or the insights you aim to gain.
+This project, titled "Sales Prediction," is designed to address the challenge of predicting sales based on various marketing channels' advertising budgets. The primary objective is to develop machine learning models that can effectively forecast sales, aiding marketing teams in optimizing budget allocations and maximizing return on investment.
 
 ## Features
 
