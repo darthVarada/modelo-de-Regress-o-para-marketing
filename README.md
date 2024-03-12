@@ -1,4 +1,3 @@
-```
 # Sales Prediction Project
 
 ## Overview
@@ -56,4 +55,3 @@ Contributions are welcome! Feel free to submit pull requests, report issues, or 
 ## License
 
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
-```
