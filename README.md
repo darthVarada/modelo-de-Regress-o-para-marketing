@@ -37,10 +37,12 @@ To set up and run the project locally, follow these instructions:
 git clone https://github.com/your-username/your-repository.git
 ```
 
-2. Install the required Python libraries:
+## Install the required Python libraries
+
+To install the required Python libraries, run the following command:
 
 ```bash
-pip install pandas numpy scikit-learn
+pip install -r requirements.txt
 ```
 
 3. Run the scripts `train.py` and `predict.py` to train the models and make predictions, respectively.
