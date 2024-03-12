@@ -3,7 +3,9 @@
 
 ## Overview
 
-The Sales Prediction project aims to predict sales based on advertising budgets across various marketing \n channels. The primary goal is to develop machine learning models to forecast sales accurately, helping marketing teams optimize budget allocations and maximize return on investment.
+The Sales Prediction project aims to predict sales based on advertising budgets across various marketing  
+channels. The primary goal is to develop machine learning models to forecast sales accurately, helping  
+marketing teams optimize budget allocations and maximize return on investment.
 
 ## Features
 
