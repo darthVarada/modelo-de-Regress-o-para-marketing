@@ -1,0 +1,7 @@
+# Arquivos e diretórios a serem ignorados pelo Git
+
+# Ignorar o ambiente virtual
+modelo-de-Regress-para-marketing/
+
+# Ignorar o modelo treinado
+trained_classifier.pkl
